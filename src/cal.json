@@ -1,0 +1,32 @@
+{
+    "cal_file": "../out/20140304_vid1_cal.json",
+    "pic_size": [1905,1080],
+    "camera_guess": [422100, 6185700, 200],
+    "known": [
+        {
+            "name": "Ostankino tower",
+            "coords": [413007, 6186893, 700],
+            "pic_xy": [1824, 250]
+        },
+        {
+            "name": "Triumf Palace",
+            "coords": [407628, 6184632, 425],
+            "pic_xy": [1062,481]
+        },
+        {
+            "name": "Radio tower",
+            "coords": [405272, 6182781, 408],
+            "pic_xy": [627, 506]
+        },
+        {
+            "name": "Preobrazhensky warehouse N corner",
+            "coords": [420960, 6186534, 170],
+            "pic_xy": [978, 546]
+        },
+        {
+            "name": "Near warehouse S corner",
+            "coords": [421567, 6186614, 160],
+            "pic_xy": [820, 785]
+        }
+    ]
+}

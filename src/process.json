@@ -1,0 +1,9 @@
+{
+    "cal_file": "../out/20140304_vid1_cal.json",
+    "points": [
+        {
+            "name": "Meteor head",
+            "pic_xy": [1065, 446]
+        }
+    ]
+}
